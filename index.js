@@ -1,6 +1,7 @@
 Page({
   onReady: function (e) {
     // 使用 wx.createMapContext 获取 map 上下文
+	// 第二个功能
     this.mapCtx = wx.createMapContext('mMap')
   },
   getCenterLocation: function () {
