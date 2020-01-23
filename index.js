@@ -4,6 +4,7 @@ Page({
 	// 第二个功能
 	// 这个是我们的第三个功能
 	// 这是我们要添加的第四个功能
+	// 我的第五个功能
     this.mapCtx = wx.createMapContext('mMap')
   },
   getCenterLocation: function () {
