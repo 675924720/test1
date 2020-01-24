@@ -6,7 +6,7 @@ Page({
 	// 这是我们要添加的第四个功能
 	// 我的第五个功能还没完成的   （现在已经完成了）
 	// 会有冲突git branch cc创建cc分支	（冲突好了）
->>>>>>> dev
+	// 冲突就要手动修改
     this.mapCtx = wx.createMapContext('mMap')
   },
   getCenterLocation: function () {
